@@ -1,0 +1,12 @@
+name = "Print"
+license = "MIT"
+description = "Hugo Theme for converting documentation to pdf"
+homepage = "https://github.com/tagesjump/hugo-print-template"
+repo = "https://github.com/tagesjump/hugo-print-template"
+tags = ["Documentation", "Docs", "Responsive", "Table Of Contents"]
+features = ["documentation", "pdf", "onepage"]
+min_version = "0.60.0"
+
+[author]
+  name = "Tages"
+  homepage = "https://tages.ru/"
